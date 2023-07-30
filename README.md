@@ -1,4 +1,6 @@
-# GITHUB  https://www.malwarebytes.com/blog/news/2023/03/easset_upload_file13810_262604_e.png
+# GITHUB  
+<img src="https://www.malwarebytes.com/blog/news/2023/03/easset_upload_file13810_262604_e.png" height = 200>
+
 
 GitHub is a web-based version control and collaboration platform for software developers. Microsoft, the biggest single contributor to GitHub, acquired the platform for $7.5 billion in 2018. GitHub, which is delivered through a software as a service (SaaS) business model, was started in 2008. It was founded on Git, an open source code management system created by Linus Torvalds to make software builds faster.
 
