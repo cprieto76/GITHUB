@@ -6,3 +6,4 @@
 2. Click on "Settings"
 3. Change the name
 4. Click on "Rename"
+ 
